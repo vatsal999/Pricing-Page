@@ -1,11 +1,11 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 *{
     margin: 0;
     padding: 0;
     background-color: #1E1E21;
     color: white;
-    font-family: sans-serif;
+    font-family: "Open Sans",sans-serif;
 }
 
 .currentplan{
@@ -56,6 +56,7 @@
     text-align: center;
     background-color: #36454F;
     font-size: 50px;
+    font-weight: 400;
 }
 .Plans .Price ul{
     margin: 50px 0;
@@ -96,3 +97,4 @@ button{
 button:hover{
     background-color: #BE3760;
 }
+
